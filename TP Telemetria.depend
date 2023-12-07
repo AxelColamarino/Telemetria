@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1698968213 source:c:\topicosdeprogramacion\tp telemetria\main.c
+	"Prototipos.h"
+
+1698863941 source:\\desktop-3o7kn9u\topicosdeprogramacion\tp telemetria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1698938792 source:c:\topicosdeprogramacion\tp telemetria\funciones.c
+
+1698953446 c:\topicosdeprogramacion\tp telemetria\prototipos.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+
+1699970835 source:c:\users\maxim\downloads\44834085_justiniano_maximo_tp\tp telemetria\funciones.c
+	"Prototipos.h"
+
+1699970835 source:c:\users\maxim\downloads\44834085_justiniano_maximo_tp\tp telemetria\main.c
+	"Prototipos.h"
+
+1699970835 c:\users\maxim\downloads\44834085_justiniano_maximo_tp\tp telemetria\prototipos.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+
+1699993841 source:c:\users\laboratorios\desktop\44834085_justiniano_maximo_tp\tp telemetria\funciones.c
+	"Prototipos.h"
+
+1699993809 c:\users\laboratorios\desktop\44834085_justiniano_maximo_tp\tp telemetria\prototipos.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+
+1699993679 source:c:\users\laboratorios\desktop\44834085_justiniano_maximo_tp\tp telemetria\main.c
+	"Prototipos.h"
+
+1699993842 source:e:\git\tp telemetria\funciones.c
+	"Prototipos.h"
+
+1699993810 e:\git\tp telemetria\prototipos.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+
+1699993680 source:e:\git\tp telemetria\main.c
+	"Prototipos.h"
+
